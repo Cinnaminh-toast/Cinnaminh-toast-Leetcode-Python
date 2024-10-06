@@ -1,0 +1,6 @@
+Start time: 2024-10-06 21:30:00
+End time: 2024-10-06 22:03:38
+Topic(s): "Array", "Hash Table", "Two Pointers", "Binary Search", "Greedy". "Counting"
+Remark(s): Used Hint 1 and Hint 2
+Hint 1: "To minimize the length of the array, we should maximize the number of operations performed."
+Hint 2: "To perform k operations, it is optimal to use the smallest k values and the largest k values in nums."
